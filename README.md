@@ -1,5 +1,4 @@
-# hydrosys
-HydroSys - An online platform for remote monitoring  of water distribution networks
+# HydroSys - An online platform for remote monitoring  of water distribution networks
 
 Project developed for the Intel® Embedded Systems Competition 2016
 
