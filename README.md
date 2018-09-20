@@ -5,7 +5,7 @@ Project developed for the Intel® Embedded Systems Competition 2016
 
 Students: Andrea Duque, Larissa Lages and Rodolfo Andrade
 
-Adviser: Edna Barros
+Professor: Edna Barros
 
 Prototype Video: https://drive.google.com/open?id=0B3PUtgJP-Z5kZndJcU42dGo2WDA
 
